@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com;
+package com.madzierski.daniel;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * @author student
  */
-public class LabolatoriumFirst {
+public class University {
 
     /**
      * @param args the command line arguments
@@ -19,8 +19,8 @@ public class LabolatoriumFirst {
         List<Person> people = new ArrayList<>();
 
         people.add(new Student("Nowak", Major.IT));
-        people.add(new Student("„Kowalska”", Major.TELECOMMUNICATION));
-        people.add(new Student("„Biernacki”", Major.MATH));
+        people.add(new Student("Kowalska", Major.TELECOMMUNICATION));
+        people.add(new Student("Biernacki", Major.MATH));
         people.add(new Employee("Januszewski", 3000));
         people.add(new Employee("Sebiksowki", 5000));
 

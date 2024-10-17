@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/introduce/introduce.iml" filepath="$PROJECT_DIR$/introduce/introduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labolatorium1/labolatorium1.iml" filepath="$PROJECT_DIR$/labolatorium1/labolatorium1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-put.iml" filepath="$PROJECT_DIR$/.idea/oop-put.iml" />
+    </modules>
+  </component>
+</project>

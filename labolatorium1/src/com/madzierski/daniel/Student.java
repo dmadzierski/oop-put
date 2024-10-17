@@ -1,4 +1,4 @@
-package com;
+package com.madzierski.daniel;
 
 import java.util.ArrayList;
 import java.util.List;
